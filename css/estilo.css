@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #100D28; /* Color de fondo para todo el cuerpo del documento */
+    background-color: #100D28; 
 }
 
 /*HEADER*/
@@ -17,7 +17,6 @@ body {
 }
 
 .encabezado {
-    /* background-color: bisque; */
     border-top: solid 20px #8906E6;
 }
 
@@ -73,11 +72,11 @@ footer ul li a {
 }
 
 .contenedor_img {
-    margin: auto; /* Centra el contenedor horizontalmente con un margen superior e inferior */
-    width: 500px; /* Ancho del contenedor */
-    height: 300px; /* Altura del contenedor, igual al ancho para hacerlo cuadrado */
-    border-radius: 15px; /* Da un borde ligeramente redondeado, ajusta este valor a tu gusto */
-    overflow: hidden; /* Asegura que cualquier contenido que se desborde sea recortado */
+    margin: auto; 
+    width: 500px; 
+    height: 300px; 
+    border-radius: 15px; 
+    overflow: hidden; 
 }
 
 .p_text {
